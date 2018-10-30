@@ -1,2 +1,2 @@
 # cryptoadapter
-Cryptocoins connector and adapter implementations
+Cryptocoins connector and adapter implementation
