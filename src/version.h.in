@@ -1,0 +1,7 @@
+#pragma once
+
+#define VERSION_MAJOR     @VERSION_MAJOR@
+#define VERSION_MINOR     @VERSION_MINOR@
+#define PATCH_NUMBER      @PATCH_NUMBER@
+
+#define VERSION_STRING    "@VERSION_STRING@"
